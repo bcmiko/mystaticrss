@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-  <title>Channel Title</title>
+  <title>Novinky a dulezite info</title>
   <link>http://www.example.com/</link>
   <description>Description of the channel</description>
   <item>
-    <title>News Item Title 1</title>
+    <title>Update systemu - DEV</title>
     <link>http://www.example.com/news1</link>
-    <description>Description of the news item 1</description>
+    <description>Bude probihat odstavka ZTESTD - Week 3 2024</description>
     <pubDate>Tue, 20 Jan 2024 04:00:00 GMT</pubDate>
     <guid>Unique string for news item 1</guid>
   </item>
   <item>
-    <title>News Item Title 2</title>
+    <title>Maintenance systemu - ZTESTB</title>
     <link>http://www.example.com/news2</link>
-    <description>Description of the news item 2</description>
+    <description>V case od 1.2.2024 15:00 do 1.2.2024 23:00 bude ZTESTB nedostupny</description>
     <pubDate>Wed, 21 Jan 2024 04:00:00 GMT</pubDate>
     <guid>Unique string for news item 2</guid>
   </item>
