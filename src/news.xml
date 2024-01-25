@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Channel Title</title>
+  <link>http://www.example.com/</link>
+  <description>Description of the channel</description>
+  <item>
+    <title>News Item Title 1</title>
+    <link>http://www.example.com/news1</link>
+    <description>Description of the news item 1</description>
+    <pubDate>Tue, 20 Jan 2024 04:00:00 GMT</pubDate>
+    <guid>Unique string for news item 1</guid>
+  </item>
+  <item>
+    <title>News Item Title 2</title>
+    <link>http://www.example.com/news2</link>
+    <description>Description of the news item 2</description>
+    <pubDate>Wed, 21 Jan 2024 04:00:00 GMT</pubDate>
+    <guid>Unique string for news item 2</guid>
+  </item>
+  <!-- Add more items as needed -->
+</channel>
+</rss>
